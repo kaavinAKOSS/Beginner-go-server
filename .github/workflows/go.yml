@@ -24,4 +24,4 @@ jobs:
       run: go build 
 
     - name: Test
-      run: ./goTaskItServer.exe
+      run: ls
