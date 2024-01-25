@@ -25,4 +25,4 @@ jobs:
     - name: Listing
       run: ls -l
     - name: Test
-      run: goTaskitServer
+      run: ./goTaskitServer
